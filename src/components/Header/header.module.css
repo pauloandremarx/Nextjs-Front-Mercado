@@ -1,0 +1,294 @@
+ 
+
+.nav{
+  position: relative;
+  width: 100%;
+  z-index: 150 !important;  
+  border-top: 5px solid #E65B20;
+  border-bottom: 2px solid #E65B20;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  top: 0px;
+  transition: all ease-in-out 0.1s;
+}
+
+.nav.is_sticky{
+    top: 0px;
+    animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+    position: sticky;
+    transition: all ease-in-out 0.1s;
+}
+
+.bg_stick{
+  background-color: #fff;
+}
+
+.logo_navheader{
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100px;
+  display: block;
+}
+
+.offcanvas-close{
+  position: relative !important;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;;
+}
+
+.color_nav{
+  max-width: 1400px; 
+  padding: 0px 0.5em;
+}
+
+ #id_nav{
+  height: auto;
+
+ }
+
+.color_nav li .navborder a{
+  padding: 0px;
+  color: #110D82;
+  font-family: 'Open Sans', sans-serif; 
+  font-size: clamp(11px, 1vw, 14px);
+  font-weight: 600;
+  text-transform: inherit;
+  margin: 0px 0px 0px 0px;
+}
+
+.padding_right_h{
+  padding-right: 1rem;
+}
+
+.color_nav li  object{
+  display: inline;
+  pointer-events: none;
+  margin-right: 7px;
+  top: -2px;
+  position: relative;
+}
+
+.color_nav li .navborder a:hover{
+  color: #E65B20; 
+}
+
+.color_nav li .navborder a:hover:before{
+  border-color: #E65B20 !important;
+}
+
+.logo{
+  width: 80px;
+  margin: 8px;
+  transition: all ease-in-out 0.1s;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  height: 40px;
+  max-width: 230px;
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  margin-left: 20px;
+  justify-content: center;
+  border-radius: 35px;
+  border: 1px solid #110D82;
+  color: #110D82;
+}
+
+.btn a{
+  margin: 0px;
+  padding: 0px;
+  font-weight: 600;
+  text-decoration: none;
+  
+}
+
+.area_aluno div {
+  color: #110D82;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.width_container_cart{
+  width: 30px; 
+  position: relative;
+}
+
+.filter_orange{
+  filter: brightness(0) saturate(100%) invert(45%) sepia(20%) saturate(6577%) hue-rotate(350deg) brightness(94%) contrast(91%);
+  margin-right: 10px;
+}
+
+.filter_white{
+  filter: brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(106deg) brightness(104%) contrast(103%);
+  margin-right: 10px;
+}
+
+.area_aluno span{
+  color: #E65B20;
+  font-size: 15px;
+}
+
+.area_aluno:hover{
+  background-color: #110D82;
+  color: #fff;
+}
+.area_aluno:hover div{
+  color:#fff;
+}
+ 
+
+.loja_virtual{
+  border: 1px solid #110D82;
+  background-color: #110D82;
+
+}
+
+.loja_virtual:hover{
+  background-color: #fff;
+}
+
+
+.loja_virtual:hover div{
+  color: #110D82;
+}
+
+.loja_virtual:hover img{
+  filter: brightness(0) saturate(100%) invert(45%) sepia(20%) saturate(6577%) hue-rotate(350deg) brightness(94%) contrast(91%);
+}
+
+
+.hamburgue{
+  color: #110D82 !important;
+}
+
+.loja_virtual div {
+  color: #fff;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+.loja_virtual span{
+  color: #fff;
+  font-size: 15px;
+}
+
+
+@media (min-width:960px){
+  .logo{
+      width: 80px;
+      margin: 0px;
+  }
+}
+
+
+
+
+ 
+ 
+.nav_mobile_header_container{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav_mobile_container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+.nav_mobile_container li{
+  text-align: center;
+ 
+}
+
+.nav_mobile_container li .mobile_a{
+  color: #fff;
+}
+
+.nav_mobile_container li a{
+  display: block;
+  margin-bottom: 20px;
+} 
+
+.nav_mobile_container  .orange{
+  color: #FF7E4F;
+}
+
+.zero-min-height{
+  min-height: 0px !important;
+}
+
+.flex_user{
+  display: flex;
+  justify-content: start;
+  margin-left: 35px;
+  position: relative;
+  left: -15px;
+  
+}
+
+
+.seja_bemvindo{
+  font-size: 14px;
+  color: #E65B20;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.username{
+  font-size: 14px;
+  color: #110D82;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+    margin: 0px;
+}
+
+.username span{
+  color: #E65B20;
+  font-weight: 700;
+}
+
+.username:hover{
+  filter: brightness(0) saturate(100%) invert(37%) sepia(88%) saturate(1962%) hue-rotate(354deg) brightness(98%) contrast(84%);
+}
+
+.img_user{
+  height: 40px;
+  width: 40px;
+  background-color: #666;
+  border-radius: 100%;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.username_dropdown{
+  min-width: 180px;
+  padding: 7px 0px;
+  border-radius: 5px;
+
+}
+
+.username_dropdown a{
+  display: block;
+  padding: 3px 15px;
+  font-size: 14px;
+  color: #110D82;
+}
+
+.laranja{
+  height: 1px;
+  width: 100%;
+  color: #E65B20 !important;
+  background-color: #e65b20 !important;
+}

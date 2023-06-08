@@ -1,0 +1,49 @@
+.container_painel{
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1400px;
+    padding: 1em 1.5em;
+    margin: auto;
+    overflow: auto;
+    position: relative;
+}
+
+
+.container_painel_enventos{
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1400px;
+    padding: 1em 1.5em;
+    margin: auto; 
+    overflow: visible !important;  
+    position: relative;
+}
+
+.container_painel_enventos::before{
+    content: "";
+    position: absolute;
+    height: 500px;
+    left: -490px;
+    bottom: 0px;
+    width: 500px;
+    background-color: #fff;
+    z-index: 2;
+}
+
+/*
+.container_painel_enventos{
+    box-sizing: border-box;
+    width: calc(100% -18%);
+    max-width: auto; 
+    padding: 1em 1.5em;
+    margin: 0px; 
+    overflow: hidden !important; 
+    margin-left:  18%;
+    margin-right: 0px;
+}*/
+
+
+ .widht_100Over{
+    width: 100%;
+    overflow-x: hidden !important;
+ }

@@ -1,0 +1,35 @@
+
+  
+.form_container{
+  width: 100%;
+  background-color: #fff;
+  border-radius: 33px;  
+  box-sizing: border-box;
+  padding: 40px; 
+  position: relative;
+}
+ 
+
+@media (max-width:959px) {
+  .form_container{
+      padding: 35px 25px;   
+  }
+}
+ 
+
+.form_container .uk-input:focus,
+.form_container .uk-select:focus,
+.form_container .uk-textarea:focus,
+.form_container .uk-radio:focus {
+outline: none; 
+border-color: #777 !important;
+}
+
+
+.form_container .uk-radio:checked,
+.form_container .uk-checkbox:checked,
+.form_container .uk-checkbox:indeterminate {
+background-color: #777 !important;
+
+}
+  

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3232b381-f89e-45fd-9fea-301f230ee4d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/hello/auth/[...nextauth].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/session/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/providers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Form/form.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Form/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/InputCuston/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/InputPassword/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/ModalTaxEdit/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/ModalTaxEdit/products.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/Tax/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/Tax/products.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/TaxEdit/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/TaxEdit/products.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Tax/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/Get/Api.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/useProducts/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/useProducts/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/useProducts/update.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/15minutos.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/Spotify-Logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/area_aluno_login/fundo-estudo-login.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/aula_thumb.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/banner/banner-home-1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/banner/banner-home-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/banner/banner-home-3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/banner_youtube.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/bg_blog_destaque.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/deezer-icon.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/deezer.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/Base_Marca_Manole.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/aba.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/check_m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/fundo_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/google_play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/ebooks/video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/gude-2023-05-16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-instagran.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-linkdin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-telegran.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-whats.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/icon-youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/footer/manole_logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/form/invisible.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/form/manole-educao.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/form/visible.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/header/carrinho-de-compra-branco.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/header/livro-laranja.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/header/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/header/manole_logo_h.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/bg_home_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/bg_home_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/bg_home_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/bg_home_4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/bg_home_5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/blog_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/blog_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/blog_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/education-1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/education-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/education-3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/education-4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/icon-home-1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/icon-home-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/icon-home-3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/icon-home-4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/ieditora-1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/ieditora-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/ieditora-3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/solutions-1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/solutions-2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/solutions-3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/home/video-home.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/itunes-icon.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/itunes-logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/newsletter/bg_newsller.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/newsletter/newsletter-line.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/ajuda.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/arquivos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/arrow-up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/b2-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/b2-item1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/b2-item2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/b2-item3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/bg_painel.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/botao_photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/completeIcon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/cursoIcon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/facebook_bnt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/fi_log-out.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/fi_mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/fi_map-pin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/icone_curso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/icone_mensagem.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/icons8-edit-67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/icons8-x-67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/imagem_perfil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/instagran_bnt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/left-sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/lupa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/mensagem_forun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/mensagens.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/meu_perfil.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/minha_senha.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/mobile_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/notas.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/outras_mensagens.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/plano_de_ensino.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/preferencias.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/right-md.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/sino.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/thumb_curso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/u_phone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/user_people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/w01.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/w02.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/w03.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/perfil/youtube_bnt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/single_destaque_blog.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/1981.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/1993.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/1994.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/2003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/Dinu_Manole.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/bg_img.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/linha_do_tempo_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/linha_do_tempo_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/linha_do_tempo_4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sobre_nos/manole_logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manole/sportfy-icon.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/aulas-gratuitas/[id]/aulas_single_post.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/aulas-gratuitas/[id]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/aulas-gratuitas/aulasgratuitas.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/aulas-gratuitas/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/login.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/login.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/login/page.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/login/page.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/minicursos/[id]/minicursos_single.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/minicursos/[id]/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/minicursos/minicursos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/minicursos/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/cursos-disponiveis/cdisponiveis.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/cursos-disponiveis/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/meu-perfil/meu-perfil.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/meu-perfil/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/meus-cursos/m_cursos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/meus-cursos/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/minha-senha/minha-senha.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/minha-senha/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/notas/notas.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/notas/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/painel/painel.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/podcast/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/podcast/podcast.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sobre-nos/page.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sobre-nos/sobre-nos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/LocalStorage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/BannerHome/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Breadcrumb/breadcrumb.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Breadcrumb/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardAula/Cardaula.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardAula/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardPodcast/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardPodcast/podecastcard.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardProduto/card_produto.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CardProduto/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CaroselItensManole/caroselItensManole.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CaroselItensManole/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CarouselNav/carousel.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/CarouselNav/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/ContainerAulasGratuitas/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/ContainerMinicursos/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Footer/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Footer/manolefooter.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Footerv2/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Footerv2/manolefooterv2.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Form/form.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Form/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/Button/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/Button/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/File/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/Input/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/InputHidden/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/InputMasked/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/InputMaskedUnico/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/Instituicoes/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/Select/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/SelectInstituicao/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/SelectTipoFormacao/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/FormElements/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Header/header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Header/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderEventos/headerEventos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderEventos/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderMeusCursos/headerMeusCursos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderMeusCursos/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderMiniCursos/headerMinicursos.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/HeaderMiniCursos/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Headerv2/headerv2.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Headerv2/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/InputCuston/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/InputPassword/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/InputRadio/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Layout/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Layoutv2/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/LoadStatus/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/LoadStatus/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Newsletter/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Newsletter/newsletter.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Notification/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Notification/notification.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/AdicionarEspecialidade.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/AdicionarFormacao.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/EditarEspecialidade.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/EditarFormacao.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/academico.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/formPerfil.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/image-perfil.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/imagePerfil.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Perfil/normal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Spinner/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Spinner/spinner.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Ufs/SelectCidade.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Ufs/SelectEstado.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/Youtube/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/bannerBemvindo/bannerBemvindo.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/bannerBemvindo/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/bannerCursosDisponiveis/bannerCursosDisponiveis.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Manole/bannerCursosDisponiveis/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Uikit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetLogs/useGetLogs.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/category/useGetInstituicoes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/tipo_cursos/useTipo_cursos.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/tipo_especialidade/useTipo_especialidade.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/tipo_formacao/useTipo_formacao.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/useGetFormcao.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/GetPerfil/useGetPerfil.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/Postlogs/usePostLogs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/SSO/useSSO_user.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/Webinar/useWebinar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/atualizarPerfil/useAtualizarPerfil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/aulasgratuitas/useAulasgratuitas.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/banner/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/banner/useBanner.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/cadastrar/useCadastro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/cadastrarLogado/useCadastroLogado.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/categorias/useCategorias.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/formProfile/useFormProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/login/useLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/login/useLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/meusCursos/useMeusCursos.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/minicurso/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/minicurso/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/minicurso/useMinicursos.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/podcast/usePodcast.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/ufs/useCidades.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/ufs/useEstado.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/Config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/Helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/util/Helpers.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php7.4.33\php.exe" />
+  <component name="ProjectId" id="2PvOXWrpm9qEzf66VPW2nNFv2yV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1v\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3232b381-f89e-45fd-9fea-301f230ee4d1" name="Changes" comment="" />
+      <created>1684334131776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684334131776</updated>
+      <workItem from="1684334132895" duration="13000" />
+      <workItem from="1684499511000" duration="17577000" />
+      <workItem from="1684945639170" duration="4223000" />
+      <workItem from="1685012085433" duration="10597000" />
+      <workItem from="1686157034647" duration="2000" />
+      <workItem from="1686190512810" duration="15718000" />
+      <workItem from="1686229222998" duration="841000" />
+      <workItem from="1686230080622" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+.minicursos_title{
+    color:#110D82;
+    font-size: clamp(35px, 4.5vw, 45px);
+    line-height: 100%;
+    margin-bottom: 35px;
+    font-weight: 700;
+}
+
+.btn_ja_e_aluno{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: #fff;
+    border: 2px solid #A0AE70;
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8.5px;
+    color: #A0AE70;
+    transition: all ease-in-out 0.2s;
+}
+
+.btn_ja_e_aluno:hover{
+    text-decoration: none;
+    background-color: #A0AE70;
+    color: #fff;
+}
+
+.ops{
+    text-align: left;
+    color: #110D82;
+    font-size: 22px;
+}
+
+.borda_text{
+    border: 1px solid #110D82;
+    color: #110D82;
+    font-size: 22px;
+    display: block;
+}
